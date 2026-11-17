@@ -1,0 +1,12 @@
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+
+# Системные артефакты
+*.log
